@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.table{
+    width: 1000px;
+    height: 500px;
+    background-color: #02a0fc;
+    margin: 50px auto;
+}
+.table h1{
+    text-align: center;
+    padding: 5px;
+    font-size: 40px;
+    color: #ffff;
+}
+table{
+    width: 95%;
+    height: 400px;
+    text-align: center;
+    font-size: 20px;
+    margin: 5px auto;
+    text-transform: capitalize;
+}
+thead{
+    height: 45px;
+    font-size: 30px;
+    background-color: #0000ff63;
+    color: #ffff;
+}
+table, th, td{
+    border: 1px solid #000000;
+}
+.country{
+    background-color: #000000bd;
+    color: #ffff;
+}
+.data{
+    background-color: #cc00ff6b;
+    color: #ffff;
+}
